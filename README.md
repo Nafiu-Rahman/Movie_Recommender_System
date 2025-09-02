@@ -30,4 +30,7 @@ A Streamlit-based web application that recommends movies based on content simila
    ```bash
     pip install -r requirements.txt
    ```
-
+**Run the application**
+```bash
+   streamlit run app.py
+   ```
