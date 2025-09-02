@@ -3,6 +3,7 @@
 A Streamlit-based web application that recommends movies based on content similarity using machine learning. This app suggests 5 similar movies and displays their posters using the TMDB API.
 - **Model**: These files are stored in: [N4F1U/Movie_Recommender_tmdb](https://huggingface.co/N4F1U/Movie_Recommender_tmdb)
 - **Dataset**: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+- **Demo**: https://huggingface.co/spaces/N4F1U/Movie_Recommender
 
 ## 🌟 Features
 
